@@ -1,0 +1,5 @@
+<aura:component>
+    <c:helloMessage message="You look nice today."/>
+    <c:customMsg customMessage="You look nice."/>
+    <c:customMsg/>
+</aura:component>
